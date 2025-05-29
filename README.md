@@ -36,3 +36,26 @@ Players try to win tricks and achieve their bids.
 
 The highest card in the played suit (or trump suit, if used) wins the trick.
 
+
+# 🔧 Features
+Object-oriented architecture
+
+Support for human players
+
+Turn-based trick handling
+
+Simple card comparison and winner determination
+
+Console-based interaction
+
+# 📌 Notes
+This is a basic version of the game and can be extended with:
+
+AI players
+
+Full scoring system
+
+Multiplayer support
+
+GUI interface
+
