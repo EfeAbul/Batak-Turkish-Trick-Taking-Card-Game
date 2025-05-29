@@ -8,14 +8,15 @@ This project is a simple Java-based implementation of **Batak**, a popular Turki
 
 All source files are located under the `src/` folder:
 
+```
 src/
-├── Card.java # Represents a playing card (suit and rank)
-├── Player.java # Abstract base class for players
-├── User.java # Human player class (extends Player)
-├── Table.java # Controls game logic, turns, and trick tracking
-└── Main.java # Entry point of the program
+├── Card.java       # Represents a playing card (suit and rank)
+├── Player.java     # Abstract base class for players
+├── User.java       # Human player class (extends Player)
+├── Table.java      # Controls game logic, turns, and trick tracking
+└── Main.java       # Entry point of the program
+```
 
----
 
 ## ▶️ How to Run
 
