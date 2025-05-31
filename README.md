@@ -4,7 +4,7 @@ This project is a simple Java-based implementation of **Batak**, a popular Turki
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 All source files are located under the `src/` folder:
 
@@ -18,7 +18,7 @@ src/
 ```
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone or download the project.
 2. Open the project in any Java IDE (such as IntelliJ IDEA or Eclipse), or compile manually:
@@ -26,7 +26,7 @@ src/
    javac src/*.java
    java src.Main
 
-# 🃏 Game Overview
+#  Game Overview
 Batak is a trick-based game typically played with 4 players. In this project:
 
 A full deck (52 cards) is used.
@@ -38,7 +38,7 @@ Players try to win tricks and achieve their bids.
 The highest card in the played suit (or trump suit, if used) wins the trick.
 
 
-# 🔧 Features
+#  Features
 Object-oriented architecture
 
 Support for human players
@@ -49,7 +49,7 @@ Simple card comparison and winner determination
 
 Console-based interaction
 
-# 📌 Notes
+#  Notes
 This is a basic version of the game and can be extended with:
 
 AI players
